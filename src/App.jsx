@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>explore-email-password-auth</h1>
+      <h1 className='text-7xl'>explore-email-password-auth</h1>
     </>
   )
 }
